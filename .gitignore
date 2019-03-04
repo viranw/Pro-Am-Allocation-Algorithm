@@ -1,2 +1,5 @@
 
 *.csv
+*.log
+*.ipynb_checkpoints/
+gurobi.log
